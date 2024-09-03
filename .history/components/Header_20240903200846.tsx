@@ -13,6 +13,7 @@ function Header() {
       height={70} 
       className="cursor-pointer"
     />
+  
   </div>
 
   <div className="flex items-center space-x-4">

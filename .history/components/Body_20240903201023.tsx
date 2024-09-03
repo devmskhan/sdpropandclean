@@ -130,7 +130,7 @@ function Body() {
 
 </div>
 
-<div className="mx-5 p-6 bg-gray-100 space-y-12">
+<div className="mxp-6 bg-gray-100 space-y-12">
 
 {/* Contact Us Header */}
 <section className="bg-white p-8 rounded-lg shadow-md">
@@ -253,7 +253,7 @@ function Body() {
 
 </div>
 
-<footer className="mx-5 bg-blue-600 text-white py-10">
+<footer className="bg-blue-600 text-white py-10">
 <div className="container mx-auto px-4">
   <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
     {/* Company Details */}
